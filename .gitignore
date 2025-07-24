@@ -12,3 +12,6 @@ ant_env/
 # OS files
 .DS_Store
 Thumbs.db
+
+# 내 노트
+sample_texts.txt
